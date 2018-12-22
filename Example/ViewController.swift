@@ -4,7 +4,7 @@ import Photos
 
 class ViewController: UIViewController {
     
-    // MARK: Enums
+    // MARK: Enums s
     
     enum AlertType: String {
         
